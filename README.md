@@ -1,4 +1,4 @@
-#livewatch
+# livewatch
 
 A plug-and-play open hardware watchpoint module for non-intrusive multicore debugging on FPGAs. 
 
